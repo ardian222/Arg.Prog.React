@@ -1,0 +1,27 @@
+.footer-redSocialIcon-ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.footer-redSocialIcon-li{
+    display: inline-block;
+}
+.footer-redSocialIcon-Facebook-icon{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    text-indent: -9999em;
+    background-size: 34px;
+    display: inline-block;
+    height: 34px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    width: 34px;
+}
+.footer-redSocialIcon-Facebook-icon:hover{
+    color: inherit;
+}
